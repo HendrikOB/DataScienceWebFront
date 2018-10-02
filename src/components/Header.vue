@@ -29,7 +29,7 @@
 			</nav>
 		</div>
 		<div class="row header-pre">
-			<div class="col-5 ta-left">
+			<div class="col-6 ta-left">
 				<p>October 12-14, 2018 | Marriott La Jolla | San Diego, CA</p>
 				<h2>The Data Science Conference</h2>
 				<h2>That Will Change Your Career</h2>
@@ -38,13 +38,13 @@
 						<button class="btn btn-outline-success my-2 my-sm-0" type="submit">I WANT TO GO</button>
 				</div>
 			</div>
-			<div class="col-7 iframe-col"><iframe class="resp-iframe" src="https://www.youtube.com/embed/L7CdHnuR4pE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="col-6 iframe-col"><iframe class="resp-iframe" src="https://www.youtube.com/embed/L7CdHnuR4pE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 		</div>
 	</div>
 </template>
 
 <style lang="scss">
 h1 {
-  color: $bg-classroom;
+	color: $bg-classroom;
 }
 </style>
