@@ -8,7 +8,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -19,7 +19,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -30,7 +30,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -41,7 +41,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -52,7 +52,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -63,7 +63,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -74,7 +74,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -85,7 +85,7 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
@@ -96,16 +96,16 @@
 						<a href="" class="speakers-link">
 							<img class="card-img-top" src="../assets/foto.jpg" alt="Card image cap">
 							<div class="card-body">
-								<p class="card-text">Negrasho</p>
+								<p class="card-text">Lorem, ipsum.</p>
 								<p class="card-text">Lorem ipsum dolor sit amet.</p>
 							</div>
 						</a>
 					</div>
 				</div>
 			</div>
-			<div class="">
-						<button class="btn btn-outline-success my-2 my-sm-0" type="submit">I WANT TO GO</button>
-				</div>
+			<div class="speaker-btn">
+				<button class="btn btn-outline-success my-2 my-sm-0" type="submit">I WANT TO GO</button>
+			</div>
 		</div>
 	</div>
 </template>

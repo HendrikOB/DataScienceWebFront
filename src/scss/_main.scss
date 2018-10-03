@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400');
 
 body{
 	font-family: 'Roboto', sans-serif !important;
@@ -6,6 +6,11 @@ body{
 
 #app{
 	width: auto !important;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
+	color: #2c3e50;
+	margin-top: 0px;
 }
 
 #datascienceperu{
@@ -83,6 +88,7 @@ body{
 .speakers{
 	height: auto;
 	width: auto;
+	margin-bottom: 7vh;
 }
 
 .speakers-container{
@@ -120,4 +126,49 @@ body{
 
 .card img{
 	object-fit: fill !important;
+}
+
+.speaker-btn{
+	margin-top: 7vh;
+}
+
+.whatis{
+	background-color: rgb(0, 0, 54);
+	width: auto;
+	height: 50vh;
+	//background-color: #000036;
+	background-image: url(../assets/Image-Ink.jpg);
+	background-size: 600px;
+	background-repeat: no-repeat;
+	background-position: -220px -300px;
+}
+
+.row-whatis{
+	margin-right: 0px;
+}
+
+.bg-1 {
+	background-image: url(../assets/Pattern_Home_Hotel.svg);
+	width: 55%;
+	height: 50%;
+	position: absolute;
+	left: -380px;
+	background-size: cover !important;
+}
+
+.information{
+	color: white;
+	font-weight: 300 !important;
+	position: absolute;
+	top: 8vh;
+	left: 5vw;
+	text-align: left;
+	width: 58vw;
+}
+
+.separator-whatis {
+	height: 3px;
+	margin: 18px 0;
+	background: linear-gradient(90deg,hsla(0,0%,100%,0) 0,#fff 50%,hsla(0,0%,100%,0));
+	width: 50%;
 }

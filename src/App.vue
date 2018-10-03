@@ -3,6 +3,7 @@
     <Header msg="Welcome to Your Vue.js App"/>
     <Promo />
     <Speakers />
+    <Whatis />
   </div>
 </template>
 
@@ -10,6 +11,8 @@
 import Header from './components/Header.vue'
 import Promo from './components/Promo.vue'
 import Speakers from './components/Speakers.vue'
+import Whatis from './components/Whatis.vue'
+
 
 
 export default {
@@ -17,18 +20,8 @@ export default {
   components: {
     Header,
     Promo,
-    Speakers
+    Speakers,
+    Whatis
   }
 }
 </script>
-
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 0px;
-}
-</style>
