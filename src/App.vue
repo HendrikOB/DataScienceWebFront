@@ -1,20 +1,23 @@
 <template>
   <div id="app">
     <Header msg="Welcome to Your Vue.js App"/>
-    <Promo></Promo>
+    <Promo />
+    <Speakers />
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue'
 import Promo from './components/Promo.vue'
+import Speakers from './components/Speakers.vue'
 
 
 export default {
   name: 'app',
   components: {
     Header,
-    Promo
+    Promo,
+    Speakers
   }
 }
 </script>

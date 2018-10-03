@@ -4,9 +4,13 @@ body{
 	font-family: 'Roboto', sans-serif !important;
 }
 
+#app{
+	width: auto !important;
+}
+
 #datascienceperu{
 	height: 93vh;
-	width: 100vw;
+	width: auto;
 	//background-image: url("../assets/datascience.jpg");
 	background-color: rgb(0, 0, 54);
 	//background-size: 100% 100%;
@@ -27,8 +31,10 @@ body{
 }
 
 .header-pre{
+	width: auto;
 	margin-top: 25vh;
 	margin-right: 0px;
+	margin-left: 0px;
 }
 
 .header-p{
@@ -41,6 +47,13 @@ body{
 	top: 5vh;
 }
 
+.separator {
+	height: 3px;
+	margin: 18px 0;
+	background: linear-gradient(90deg,hsla(0,0%,100%,0) 0,#fff 50%,hsla(0,0%,100%,0));
+	width: 70%;
+}
+
 .iframe-col{
 	height: 40vh;
 	position: 0px;
@@ -51,18 +64,60 @@ body{
 	position: absolute;
    top: 0;
    left: 0;
-   width: 53vw;
-   height: 40vh;
+   width: 50vw;
+   height: 45vh;
    border: 0;
 }
 
 .promo{
 	height: 7vh;
-	width: 100vw;
+	width: auto;
 	background-color: rgb(155, 0, 93);
 	color: white;
 }
 
 .promo p{
 	padding-top: 2.5vh;
+}
+
+.speakers{
+	height: auto;
+	width: auto;
+}
+
+.speakers-container{
+	margin: auto;
+	margin-top: 5vh;
+	align-content: center;
+	width: 78vw;
+}
+
+.card{
+	border-style: none;
+	width: 14rem;
+	margin: auto;
+	text-align: center;
+	margin-top: 15%;
+}
+
+.speakers-link:link, .speakers-link:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.speakers-link{
+	color: black;
+}
+
+.speakers-link img:hover{
+	transform: scale(1.1);
+}
+
+.card-img-top{
+	border-radius: 50%;
+	border-style: solid;
+}
+
+.card img{
+	object-fit: fill !important;
 }

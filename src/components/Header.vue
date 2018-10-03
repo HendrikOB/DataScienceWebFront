@@ -33,6 +33,7 @@
 				<p>October 12-14, 2018 | Marriott La Jolla | San Diego, CA</p>
 				<h2>The Data Science Conference</h2>
 				<h2>That Will Change Your Career</h2>
+				<div class="separator"></div>
 				<p class="header-p">DataScienceGO will give you a clear framework that combines technical knowledge, business “soft skills” and inspiration to transform your career.</p>
 				<div class="">
 						<button class="btn btn-outline-success my-2 my-sm-0" type="submit">I WANT TO GO</button>
