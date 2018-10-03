@@ -1,13 +1,12 @@
 <template>
 	<div id="datascienceperu">
 		<div>
-			<nav class="navbar navbar-expand-lg navbar-light bgc-navbar">
+			<nav class="navbar navbar-expand-lg navbar-dark bg-dark bgc-navbar">
 				<a class="navbar-brand text-colorw" href="#">DataSciencePeru</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavH" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
-
-				<div class="collapse navbar-collapse float-right">
+				<div class="collapse navbar-collapse float-right" id="navbarNavH">
 					<ul class="navbar-nav mr-auto header-ul">
 					<li class="nav-item active">
 						<a class="nav-link text-colorw" href="#">Speakers<span class="sr-only">(current)</span></a>
