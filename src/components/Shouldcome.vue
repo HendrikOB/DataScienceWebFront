@@ -51,7 +51,7 @@
 
 					<div class="reason-wrapper">
 						<div class="reason-section right fourth">
-							<div class="reason-item item-qright">
+							<div class="reason-item item-right">
 								<div class="image">
 									<img src="../assets/Who-Image-4.svg" alt="">
 								</div>
