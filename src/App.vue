@@ -4,6 +4,7 @@
     <Promo />
     <Speakers />
     <Whatis />
+    <Should />
     <Footer />
   </div>
 </template>
@@ -14,6 +15,7 @@ import Promo from './components/Promo.vue'
 import Speakers from './components/Speakers.vue'
 import Whatis from './components/Whatis.vue'
 import Footer from './components/Footer.vue'
+import Should from './components/Shouldcome.vue'
 
 
 
@@ -24,7 +26,8 @@ export default {
     Promo,
     Speakers,
     Whatis,
-    Footer
+    Footer,
+    Should
   }
 }
 </script>
